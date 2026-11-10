@@ -63,9 +63,63 @@
     "geo": "云南 昆明 | Chinanet"
   },
   {
-    "ip_port": "106.43.109.24:7000",
-    "ip": "106.43.109.24",
+    "ip_port": "106.43.111.72:7000",
+    "ip": "106.43.111.72",
     "port": "7000",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "贵州 贵阳市 | Chinanet"
+  },
+  {
+    "ip_port": "218.86.7.195:8188",
+    "ip": "218.86.7.195",
+    "port": "8188",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "福建省 福州 | Chinanet"
+  },
+  {
+    "ip_port": "218.86.185.173:8188",
+    "ip": "218.86.185.173",
+    "port": "8188",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "贵州 贵阳市 | Chinanet"
+  },
+  {
+    "ip_port": "218.86.186.135:8188",
+    "ip": "218.86.186.135",
+    "port": "8188",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "贵州 贵阳市 | Chinanet"
+  },
+  {
+    "ip_port": "218.86.187.54:8188",
+    "ip": "218.86.187.54",
+    "port": "8188",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "贵州 贵阳市 | Chinanet"
+  },
+  {
+    "ip_port": "218.86.200.19:4022",
+    "ip": "218.86.200.19",
+    "port": "4022",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "贵州 贵阳市 | Chinanet"
+  },
+  {
+    "ip_port": "218.86.200.19:8188",
+    "ip": "218.86.200.19",
+    "port": "8188",
     "version": "",
     "max_client": "",
     "current_conn": "",
